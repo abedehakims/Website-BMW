@@ -1,7 +1,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/abedehakims/Website-BMW">
-    <img src="https://wallpapers.com/images/featured/bmw-m5-eonre5988v19u11h.jpg" alt="BMW Project Banner" width="100%" height="auto" style="border-radius: 12px; border: 1px solid #333;">
+    <img src="<img width="1903" height="889" alt="image" src="https://github.com/user-attachments/assets/b6a295c2-f913-4f5c-b4c5-e229c2bc8212"
+    alt="BMW Project Banner" width="100%" height="auto" style="border-radius: 12px; border: 1px solid #333;"/>
   </a>
 
   <h1 align="center">🏎️ BMW M Motorsport - Official Website</h1>
